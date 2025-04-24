@@ -30,8 +30,8 @@ https://www.tinkercad.com/things/3Vv0zPxs9nq-exquisite-sango-elzing/editel?retur
 https://youtu.be/tPVpF7j2aFs?si=hn448DKk2BlqLWa6
 
 ## Integrantes do Ambiente Guard:
-- Enzo Dourado
-- Matheus Victorio
-- Vinícius Lugli
-- Hugo Copatti
-- Lucas Villani
+- Enzo Dourado - RM 565585
+- Matheus Victorio - RM 566447
+- Vinícius Lugli - RM 564694
+- Hugo Copatti - RM 561968
+- Lucas Villani - RM 562200
